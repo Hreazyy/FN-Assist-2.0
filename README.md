@@ -76,6 +76,4 @@ This extension uses:
 
 ---
 
-## 🛠️ License
 
-MIT License © 2025
