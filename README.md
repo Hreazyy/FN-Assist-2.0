@@ -23,7 +23,7 @@ Edit
 ## 🚀 Installation
 
 1. Download the ZIP:  
-   [FN_Assist_2.0_CompanyID_Fixed.zip](https://your-download-link.com)
+   
 
 2. Open Chrome and go to `chrome://extensions`
 
