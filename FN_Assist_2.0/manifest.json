@@ -1,0 +1,25 @@
+
+{
+  "manifest_version": 3,
+  "name": "FN Assist 2.0",
+  "version": "1.1",
+  "description": "Right-click or use popup to open Field Nation profiles, work orders, and companies by ID.",
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    },
+    "default_title": "FN Assist 2.0"
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
+}
