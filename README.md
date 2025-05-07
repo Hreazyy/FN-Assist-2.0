@@ -8,7 +8,7 @@ Edit
 
 ---
 
-## 🔧 Features
+#Features
 
 - 🔍 Right-click any numeric ID on a webpage to:
   - Open a **User Profile**
@@ -16,11 +16,11 @@ Edit
   - Open a **Work Order**
   - View **All Users in a Company**
 
-- 🧩 Use the **popup** to manually enter an ID and choose the type of page to open.
+  Use the **popup** to manually enter an ID and choose the type of page to open.
 
 ---
 
-## 🚀 Installation
+#Installation
 
 1. Download the ZIP:  
    
@@ -33,9 +33,9 @@ Edit
 
 ---
 
-## 🧠 Usage
+# Usage
 
-### 🔘 Popup
+#Popup
 
 Click the extension icon in the Chrome toolbar, enter a numeric ID, and choose one of:
 
@@ -44,13 +44,13 @@ Click the extension icon in the Chrome toolbar, enter a numeric ID, and choose o
 - **Work Order** → Opens `https://app.fieldnation.com/workorders/{id}`
 - **Users in Company** → Opens `https://app.fieldnation.com/admin/user_management/user_search_results.php?company_id={id}`
 
-### 🖱️ Context Menu
+### Context Menu
 
 Right-click a numeric ID on any webpage to directly open the relevant Field Nation page.
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 FN_Assist_2.0/
 ├── background.js
@@ -67,7 +67,7 @@ Edit
 
 ---
 
-## 🔒 Permissions
+## Permissions
 
 This extension uses:
 
