@@ -10,7 +10,7 @@ Edit
 
 #Features
 
-- 🔍 Right-click any numeric ID on a webpage to:
+- Right-click any numeric ID on a webpage to:
   - Open a **User Profile**
   - Open a **Company Settings** page
   - Open a **Work Order**
