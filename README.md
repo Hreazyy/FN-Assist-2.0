@@ -61,13 +61,6 @@ FN_Assist_2.0/
 ├── icon-48.png
 └── icon-128.png
 
-yaml
-Copy
-Edit
-
----
-
-## Permissions
 
 This extension uses:
 
